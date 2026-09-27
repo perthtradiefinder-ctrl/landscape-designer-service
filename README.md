@@ -1,5 +1,7 @@
 # Landscape Designer as a Service
 
+> **Legacy / incomplete prototype.** The implementation in this repository is not the complete system described below. Current paving/hardscape visualisation and quoting development lives in [`trade-quote-bot`](https://github.com/perthtradiefinder-ctrl/trade-quote-bot) / MakQuote. Retain this repository for historical reference only; do not deploy it as a production product.
+
 AI-powered before/after landscape visualization tool for landscaping trades. Clients upload photos and project details, and the service generates 2 realistic design options for paving, concrete, and landscaping projects.
 
 ## Features
